@@ -1,6 +1,6 @@
 <?php
 /**
- * Title:404
+ * Title: 404
  * Slug: patterns-restaurant/hidden-404
  * Inserter: no
  *

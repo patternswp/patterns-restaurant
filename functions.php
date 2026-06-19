@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 define( 'PATTERNS_RESTAURANT_PATH', trailingslashit( get_template_directory() ) );
 define( 'PATTERNS_RESTAURANT_URL', trailingslashit( get_template_directory_uri() ) );
-define( 'PATTERNS_RESTAURANT_VERSION', '1.0.1' );
+define( 'PATTERNS_RESTAURANT_VERSION', '2.0.0' );
 define( 'PATTERNS_RESTAURANT_THEME_NAME', 'patterns-restaurant' );
 define( 'PATTERNS_RESTAURANT_OPTION_NAME', 'patterns-restaurant' );
 
