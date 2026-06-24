@@ -1,6 +1,6 @@
 <?php
 /**
- * Title:404
+ * Title: 404
  * Slug: patterns-restaurant/hidden-404
  * Inserter: no
  *
@@ -16,7 +16,7 @@
 		<!-- wp:heading {"textAlign":"left","level":1,"style":{"typography":{"textTransform":"capitalize"},"spacing":{"padding":{"top":"100px"}}},"textColor":"default","fontSize":"xx-large","fontFamily":"playfair-display"} -->
 <h1 class="wp-block-heading has-text-align-left has-default-color has-text-color has-playfair-display-font-family has-xx-large-font-size" style="padding-top:100px;text-transform:capitalize"><?php echo esc_html__( '404', 'patterns-restaurant' ); ?></h1>
 <!-- /wp:heading -->
-	
+
 </div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->

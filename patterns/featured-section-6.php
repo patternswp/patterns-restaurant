@@ -15,7 +15,7 @@
 <div class="wp-block-group alignfull"><!-- wp:columns {"verticalAlignment":"top","align":"full","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|80"}}}} -->
 <div class="wp-block-columns alignfull are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"60%","style":{"spacing":{"padding":{"top":"var:preset|spacing|80"}}}} -->
 <div class="wp-block-column is-vertically-aligned-top" style="padding-top:var(--wp--preset--spacing--80);flex-basis:60%">
-	
+
 <!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-5.jpg" /></figure>
 <!-- /wp:image --></div>

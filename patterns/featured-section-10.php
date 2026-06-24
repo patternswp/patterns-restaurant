@@ -13,11 +13,11 @@
 ?>
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">
-	
+
 
 <!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-center">
-	
+
 <!-- wp:column {"verticalAlignment":"center","width":"80%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:80%">
 
@@ -42,7 +42,7 @@
 
 <!-- wp:column {"verticalAlignment":"center","width":"20%","layout":{"type":"constrained","justifyContent":"center"}} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:20%">
-	
+
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"textAlign":"center","width":100,"className":"is-style-fill"} -->
 <div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill"><a class="wp-block-button__link has-text-align-center wp-element-button"><?php esc_html_e( 'Book A Table', 'patterns-restaurant' ); ?></a></div>

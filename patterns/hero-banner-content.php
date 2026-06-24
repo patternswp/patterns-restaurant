@@ -14,7 +14,7 @@
 <!-- wp:columns {"metadata":{"name":"Hero content"},"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column">
-	
+
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained","contentSize":"","justifyContent":"center","wideSize":""}} -->
 <div class="wp-block-group alignwide"><!-- wp:paragraph {"align":"left","style":{"typography":{"textTransform":"uppercase"}},"fontSize":"x-small"} -->
 <p class="has-text-align-left has-x-small-font-size" style="text-transform:uppercase"><?php esc_html_e( 'Hello, new friend!', 'patterns-restaurant' ); ?></p>

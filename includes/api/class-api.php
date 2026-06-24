@@ -36,14 +36,14 @@ if ( ! class_exists( 'Patterns_Restaurant_Api' ) ) {
 		/**
 		 * Rest route namespace.
 		 *
-		 * @var Patterns_Restaurant_Api
+		 * @var string
 		 */
 		public $namespace = 'patterns-restaurant/';
 
 		/**
 		 * Rest route version.
 		 *
-		 * @var Patterns_Restaurant_Api
+		 * @var string
 		 */
 		public $version = 'v1';
 
